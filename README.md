@@ -1,6 +1,6 @@
-# Krunker.io Hack Beta V9.0, Updated March 15 2019
+# Krunker.io Hack Beta V9.0.1, Updated March 15 2019
 
-#### Beta V9.0, Updated March 15 2019
+#### Beta V9.0.1, Updated March 15 2019
 
 ##### Please Scroll down and read through everything! (Following me and starring this repository would be helpful)
 
@@ -43,9 +43,11 @@ If it dosen't work, I am still trying my hardest to bypass krunker code, so plea
 (Krunker.io hack)
 
 # Changelog
-## V9.0, Updated March 15 2019
+## V9.0.1, Updated March 15 2019
 ###### Now works with New krunker layout
 ###### Some fixed bugs
+###### Fixed forever loading screen
+###### Fixed High ping issue
 
 ## V8.2.0, Updated March 7 2019
 ###### Better RPG Aim
