@@ -10,7 +10,7 @@ Download Tampermonkey from the chrome web store and then press on the link below
 Do not press the install button if you do not have Tampermonkey extension.
 If you run into a tab called Cross-origine Source, Press always allow and you will be redirected to krunker.io and the hack will work.
 
-#### Press here to install : https://greasyfork.org/scripts/379368-hacks-for-krunker-aimbot-wallhack-and-more/code/Hacks%20for%20krunker%20:%20Aimbot,%20Wallhack%20and%20more!!!.user.js
+#### Press here to install : https://greasyfork.org/en/scripts/379368-krunker-aimbot-wallhack-and-more-working-march-2019
 
 # Script detected?
 This might happen sometimes because of an update to the game, but don't worry, go to the issues tab and create an issue telling me about this and come back the next day to see if the hack got fixed and is usually fixed in 1-2 days. 
